@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/num1"
+        android:title="1번"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/num2"
+        android:title="2번"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/num3"
+        android:title="3번"
+        app:showAsAction="never"/>
+
+
+</menu>
